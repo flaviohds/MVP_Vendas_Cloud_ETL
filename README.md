@@ -4,6 +4,6 @@ Trabalho feito para o curso de "Ciência de Dados e Analytics". Formato de Pytho
 
 Neste projeto foi feito um ETL com AWS e python. Após armazenar parte dos [dados de uma loja de e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) em um S3 bucket da AWS, foi verificado a qualidade dos dados e os dados aprovados foram transformados utilizando o AWS Glue e armazenados no Amazon Redshift. Ao final, os dados foram acessados utilizando a API do Redshift e foram visualizados no próprio Notebook Python.
 
-![Esquema dos sistemas utilizados.](diagrama.png)
+![Esquema dos sistemas utilizados.](image.png)
 
 
