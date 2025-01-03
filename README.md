@@ -6,4 +6,11 @@ Neste projeto foi feito um ETL com AWS e python. Após armazenar parte dos [dado
 
 ![Esquema dos sistemas utilizados.](image.png)
 
-
+Características do problema e técnicas relevantes utilizadas no projeto:
+- ETL com AWS
+- Tratamento e qualidade de dados
+- Banco de dados relacional
+- S3 Bucket, AWS Glue, Data Catalog, Amazon Redshift
+- Redshift API
+- SQL
+- Visualização de dados
